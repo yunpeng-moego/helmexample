@@ -1,0 +1,29 @@
+apiVersion: v1
+entries:
+  helmexample:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-25T15:27:03.382572+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 17f62197ef92e49175f29b50229ded556863705796a3ab5cbfe2613389e57185
+    name: helmexample
+    type: application
+    version: 0.1.0
+    home: https://yunpeng-moego.github.io/helmexample
+    icon: https://img.tnblog.net/userdata/heads/a011e63c901a433e847b6f0d3dbe1a2f.jpeg
+    kubeVersion: ^1.10.0-0
+    keywords:
+      - helmexample
+      - elastic
+      - vector
+      - search
+      - deploy
+    maintainers:
+      - email: yunpeng-moego@moego.pet
+        name: yunpeng
+        url: https://yunpeng-moego.github.io/helmexample
+    sources:
+      - https://github.com/yunpeng-moego/helmexample
+    urls:
+      - https://github.com/yunpeng-moego/helmexample/raw/main/charts/helmexample-0.1.0.tgz
+generated: "2024-10-25T15:27:03.382125+08:00"
